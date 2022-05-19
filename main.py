@@ -197,8 +197,11 @@ class Vrushabh:
                     language = save
                     samayobject = gTTS(text=text_samay ,lang=language ,slow=False)
                     samayobject.save('Config/play.mp3')
-                    os.system('mpg123 Config/play.mp3')
-                    system('clear')
+		    try:
+                       os.system('mpg123 Config/play.mp3')
+		    except:
+		       pass
+                    systemclear()
                     banner()
                     space()
                     print(r+"└─"+w+"Running"+r+g+f" [ "+r+f"{sum_count}"+g+" ]"+w+" Minutes Over See Notification !")
@@ -222,7 +225,7 @@ except Exception as vaimsamaymandirbikhari:
     print(r+"└─"+w+"\033[1;37mPlease Enter number not letters fool !   ")
     print('\n')
     sleep(1.9)
-    system('python main.py')
+    system('python main.py')  
 if __name__ == '__main__':
     samay = Vrushabh(samay_user_input)
     samay.Options_Function()
