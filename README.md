@@ -8,10 +8,10 @@ I'm a Python Database Expert !
 
 ## Features
 
-- Light/dark mode toggle
+- Notify User Inputed Minutes 
 - Live previews
-- Fullscreen mode
-- Cross platform
+- Photo Inputs Available 
+- Cross platform  Windows and advance for Linux ! 
 
 ## Color Reference
 
