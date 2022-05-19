@@ -1,0 +1,3 @@
+marathi 	mr	
+english 	en	
+hindi 	hi	
