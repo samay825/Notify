@@ -13,14 +13,6 @@ I'm a Python Database Expert !
 - Photo Inputs Available 
 - Cross platform  Windows and advance for Linux ! 
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Black | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Red | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Green | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| White | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Authors
